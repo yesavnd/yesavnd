@@ -1,9 +1,8 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a School Student by night ☾
+#### Luau since 2017
 
-Full-Stack Developer and Project Lead at [Pontocho](https://www.roblox.com/groups/34315281/Pontocho-1989#!/about);<br>
-Back-end Developer at [Labyrinth Laboratories](https://www.roblox.com/groups/34410808/Labyrinth-Laboratories#!/about);<br>
+Full-Stack Developer and Project Lead at [ROBLOX: Entropy](https://www.roblox.com/groups/34540724/Project-Entropy#!/about);<br>
 
 - ⚙️ I use daily: `.toml`, `.json`, `.lua`, `.luau`, `.svg`, `.psd`
 - 🌍 I'm mostly active within the **Pontocho Community**
